@@ -1,7 +1,7 @@
 {
     "name": "SuperBit",
     "version": "2.0.1",
-    "description": "Modify by lzh ，Extension for YahBoom SuperBit V2.0 ",
+    "description": "基于亚博智能 SuperBit V2.0.1，lzh 修改 ",
     "license": "MIT",
     "dependencies": {
         "core": "*",
